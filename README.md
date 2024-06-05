@@ -1,3 +1,5 @@
 # PROJETO PSC DATA
 
-PROEJTO TESTE AULA LUCAS 
+PROJETO TESTE AULA LUCAS 
+
+Escrever tudo sobre o projeto
